@@ -60,7 +60,6 @@ number | name  | score
 002    | zjz   | 88
 
 
-
 ```py
 a = 5
 b = 8
